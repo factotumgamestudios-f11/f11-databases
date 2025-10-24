@@ -1,22 +1,23 @@
 {
+  "meta": { "version": "53533e2" },
   "2000": {
     "name": "2000",
-    "link": "https://docs.google.com/uc?export=download&confirm=t&id=1rdGwQeLGhBVBEAWlJrntpI2HPoJwfTqf",
-    "linkZip":"",
+    "linkZip": "",
+    "link":    "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@53533e2/2000.json",
     "creator": "nostalgic_man",
     "active": 0
   },
   "now": {
     "name": "2023/2024",
-    "link": "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@main/comunity-7.json",
-    "linkZip":"",
+    "linkZip": "",
+    "link":    "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@53533e2/comunity-7.json",
     "creator": "proSoccerStar",
     "active": 1
   },
   "2025": {
     "name": "2025 arg y europa",
-    "link": "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@main/rapid.json",
-    "linkZip": "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@main/2025zip.json.zip",
+    "linkZip": "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@53533e2/2025zip.json.zip",
+    "link":    "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@53533e2/rapid.json",
     "creator": "BlackFlag",
     "active": 1
   }
