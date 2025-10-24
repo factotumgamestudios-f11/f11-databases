@@ -1,20 +1,20 @@
 {
-	"2000": {
-		"name": "2000",
-		"link": "https://docs.google.com/uc?export=download&confirm=t&id=1rdGwQeLGhBVBEAWlJrntpI2HPoJwfTqf",
-		"creator": "nostalgic_man",
-		"active": 0
-	},
-	"now": {
-		"name": "2023/2024",
-		"link": "https://raw.githubusercontent.com/factotumgamestudios-f11/f11-databases/refs/heads/main/comunity-7.json",
-		"creator": "proSoccerStar",
-		"active": 1
-	},
-	"2025": {
-		"name": "2025 arg y europa",
-		"link": "https://raw.githubusercontent.com/factotumgamestudios-f11/f11-databases/refs/heads/main/aaasa.json",
-		"creator": "BlackFlag",
-		"active": 1
-	}
+  "2000": {
+    "name": "2000",
+    "link": "https://docs.google.com/uc?export=download&confirm=t&id=1rdGwQeLGhBVBEAWlJrntpI2HPoJwfTqf",
+    "creator": "nostalgic_man",
+    "active": 0
+  },
+  "now": {
+    "name": "2023/2024",
+    "link": "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@main/comunity-7.json",
+    "creator": "proSoccerStar",
+    "active": 1
+  },
+  "2025": {
+    "name": "2025 arg y europa",
+    "link": "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@main/aaasa.json",
+    "creator": "BlackFlag",
+    "active": 1
+  }
 }
