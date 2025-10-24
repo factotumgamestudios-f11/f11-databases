@@ -1,23 +1,23 @@
 {
-  "meta": { "version": "53533e2" },
+  "meta": { "version": "2025-10-24-1" },
   "2000": {
     "name": "2000",
     "linkZip": "",
-    "link":    "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@53533e2/2000.json",
+    "link": "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@main/2000.json?v=2025-10-24-1",
     "creator": "nostalgic_man",
     "active": 0
   },
   "now": {
     "name": "2023/2024",
     "linkZip": "",
-    "link":    "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@53533e2/comunity-7.json",
+    "link": "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@main/comunity-7.json?v=2025-10-24-1",
     "creator": "proSoccerStar",
     "active": 0
   },
   "2025": {
     "name": "2025",
-    "linkZip": "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@53533e2/2025zip.json.zip",
-    "link":    "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@53533e2/rapid.json",
+    "linkZip": "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@main/2025zip.json.zip?v=2025-10-24-1",
+    "link": "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@main/rapid.json?v=2025-10-24-1",
     "creator": "BlackFlag",
     "active": 1
   }
