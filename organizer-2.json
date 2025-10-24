@@ -2,12 +2,14 @@
   "2000": {
     "name": "2000",
     "link": "https://docs.google.com/uc?export=download&confirm=t&id=1rdGwQeLGhBVBEAWlJrntpI2HPoJwfTqf",
+    "linkZip":"",
     "creator": "nostalgic_man",
     "active": 0
   },
   "now": {
     "name": "2023/2024",
     "link": "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@main/comunity-7.json",
+    "linkZip":"",
     "creator": "proSoccerStar",
     "active": 1
   },
