@@ -8,11 +8,11 @@
     "active": 0
   },
   "now": {
-    "name": "2023/2024",
-    "linkZip": "",
+    "name": "2004",
+    "linkZip": "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@main/bd2004.json.zip",
     "link": "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@main/comunity-7.json?v=2025-10-24-1",
-    "creator": "proSoccerStar",
-    "active": 0
+    "creator": "retroMan",
+    "active": 1
   },
   "2025": {
     "name": "2025",
