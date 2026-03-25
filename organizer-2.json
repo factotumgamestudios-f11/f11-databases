@@ -20,5 +20,12 @@
     "link": "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@main/rapid.json?v=2025-10-24-1",
     "creator": "BlackFlag",
     "active": 1
+  },
+  "2026": {
+    "name": "2026",
+    "linkZip": "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@main/26ready.json.zip",
+    "link": "https://cdn.jsdelivr.net/gh/factotumgamestudios-f11/f11-databases@main/rapid.json?v=2025-10-24-1",
+    "creator": "trnsfer_K1NG",
+    "active": 1
   }
 }
